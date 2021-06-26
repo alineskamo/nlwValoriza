@@ -21,13 +21,8 @@ class CreateTagService{
 
         await tagsRepository.save(tag);
 
-        return tag;
-
-        
-
-
+        return tag;   
     }
-
 }
 
 export { CreateTagService }

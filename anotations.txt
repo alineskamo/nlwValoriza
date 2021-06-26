@@ -45,3 +45,6 @@ Repositórios - responsável por fazer a ligação entre as entidades e banco de
 
 middleware - interceptadores, ficam entre a requisição e resposta. Conseguem parar requisição ou adicionar um informação a ela
 Exemplo: app.use(express.json())
+
+JWT
+- JSON web tokens
